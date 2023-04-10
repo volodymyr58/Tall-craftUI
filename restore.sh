@@ -9,7 +9,7 @@ MIN_COMMITS=15
 MAX_COMMITS=26
 
 # Min and max days per month to commit
-MIN_DAYS_PER_MONTH=3    
+MIN_DAYS_PER_MONTH=2    
 MAX_DAYS_PER_MONTH=5
 
 # Set author and committer name and email
